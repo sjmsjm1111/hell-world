@@ -1,2 +1,3 @@
 # hell-world
-beginning 2
+ I`m following guide.
+ 
